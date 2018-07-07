@@ -1,0 +1,71 @@
+C:\Python27\python.exe "C:/Users/Akshay/PycharmProjects/untitled1/Pinterest App.py"
+Enter following url on the browser and enter the code from the returned url: 
+     https://api.pinterest.com/oauth/?response_type=code&client_id=4976394662544684664&redirect_uri=https://www.getpostman.com/oauth2/callback&scope=read_public  
+
+code: 4e8553fa51f31355
+
+requesting access token
+
+access token: AfC9ioWTz48De_ETPwNPUS6HaDgfFT7eEUnzfA9FD7SvgeApmwAAAAA
+
+
+User information
+{"data": {"url": "https://www.pinterest.com/akshaythorat2010/", "username": "akshaythorat2010", "id": "814659157503344264"}}
+
+2 board returned
+
+Pins on Board:open
+
+{
+    "data": [
+        {
+            "note": "Foto", 
+            "url": "https://www.pinterest.com/pin/814659020070715304/", 
+            "link": "https://www.pinterest.com/r/pin/814659020070715304/4976394662544684664/8f0ccca468c7ba909bb10334a3a0ed2219464a882257d8baab428c1dcd2f10c8", 
+            "id": "814659020070715304", 
+            "board": {
+                "url": "https://www.pinterest.com/akshaythorat2010/open/", 
+                "id": "814659088783992026", 
+                "name": "open"
+            }
+        }, 
+        {
+            "note": "Blue Lake - Tamarac, Washington -Cascade Mountains", 
+            "url": "https://www.pinterest.com/pin/814659020070713689/", 
+            "link": "https://www.pinterest.com/r/pin/814659020070713689/4976394662544684664/41e161dd0082d05cb75905d7554f8d99a271ef1fc1b32e41cdf89605a535c957", 
+            "id": "814659020070713689", 
+            "board": {
+                "url": "https://www.pinterest.com/akshaythorat2010/open/", 
+                "id": "814659088783992026", 
+                "name": "open"
+            }
+        }
+    ], 
+    "page": {
+        "cursor": null, 
+        "next": null
+    }
+}
+
+Pins on Board:sec
+
+{
+    "data": [
+        {
+            "note": "Grand Tetons", 
+            "url": "https://www.pinterest.com/pin/814659020070721456/", 
+            "link": "https://www.pinterest.com/r/pin/814659020070721456/4976394662544684664/e2ae5d094e28fa1801709ce33abe3ad12964f40dd05f6bb38b0d889bac825743", 
+            "id": "814659020070721456", 
+            "board": {
+                "url": "https://www.pinterest.com/akshaythorat2010/sec/", 
+                "id": "814659088783992261", 
+                "name": "sec"
+            }
+        }
+    ], 
+    "page": {
+        "cursor": null, 
+        "next": null
+    }
+}
+
